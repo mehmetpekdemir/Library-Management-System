@@ -26,3 +26,12 @@ For building and running the application you need:
 ```
   http://localhost:8081
 ```
+
+### Features
+
+![Books](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Books.png)
+![addBook](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/addBook.png)
+![search](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/search.png)
+![Authors](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Authors.png)
+![Categories](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Categories.png)
+![Publishers](https://github.com/mehmetpekdemir/Library-Management-System/blob/master/Photo/Publishers.png)
